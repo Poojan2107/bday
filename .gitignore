@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw image uploads (curated assets are in public/stickers)
+public/WhatsApp Image*
